@@ -44,20 +44,22 @@ h1 {
 
 What is JavaScript?
 
-A programming language used on the Web
+A programming language used on the Web 
+(comment: maybe need more improved answer)
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
 When people want to show off code to each other they can put it on Github
+(comment: maybe need more improved answer)
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You copy it 
-Allows you to freely experiment with changes without affecting the original project.
+You copy it
+(comment: maybe need to fix the answer)
 
 ## Question 10 
 
@@ -70,6 +72,7 @@ you copy the repository from GitHub.com to your local machine
 What is a Pull Request?
 
 It is when you commit changes to your repository and let other to review it 
+(comment: maybe need more improved answer, such as ask the owner of repo to 'merge')
 
 ## Question 12
 
@@ -99,16 +102,18 @@ To save the changes to the local repository
 
 What program do we use to write code at CodeYourFuture?
 
-VS code
+Linux
+(comment:  need to fix this answer: VS code)
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To give clear, helpful messages, describing what changed, and why.
+To record what changes you made to the code and to give clear, helpful messages, describing what changed, and why.
 
 ## Question 18
 
 Where can I look to find help with Git?
 
 The Git Cheatsheet!
+(comment: maybe need more improved answer)
